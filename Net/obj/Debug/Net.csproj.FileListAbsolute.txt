@@ -1,0 +1,14 @@
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\bin\Debug\Net.exe.config
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\bin\Debug\Net.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\bin\Debug\Net.pdb
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\obj\Debug\Net.csprojResolveAssemblyReference.cache
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\obj\Debug\Net.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Net\obj\Debug\Net.pdb
+D:\_Claire2_\M1\C#\Chat_git\Net\bin\Debug\Net.exe.config
+D:\_Claire2_\M1\C#\Chat_git\Net\bin\Debug\Net.exe
+D:\_Claire2_\M1\C#\Chat_git\Net\bin\Debug\Net.pdb
+D:\_Claire2_\M1\C#\Chat_git\Net\obj\Debug\Net.csprojResolveAssemblyReference.cache
+D:\_Claire2_\M1\C#\Chat_git\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+D:\_Claire2_\M1\C#\Chat_git\Net\obj\Debug\Net.exe
+D:\_Claire2_\M1\C#\Chat_git\Net\obj\Debug\Net.pdb

@@ -1,0 +1,30 @@
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Server.exe.config
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Server.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Server.pdb
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Authentification.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Net.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Authentification.pdb
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Authentification.exe.config
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Chat Project.pdb
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Net.pdb
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\bin\Debug\Net.exe.config
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\obj\Debug\Server.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Server\obj\Debug\Server.pdb
+D:\_Claire2_\M1\C#\Chat_git\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\_Claire2_\M1\C#\Chat_git\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\_Claire2_\M1\C#\Chat_git\Server\obj\Debug\Server.exe
+D:\_Claire2_\M1\C#\Chat_git\Server\obj\Debug\Server.pdb
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Server.exe.config
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Server.exe
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Server.pdb
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Authentification.exe
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Net.exe
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Authentification.pdb
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Authentification.exe.config
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Chat Project.pdb
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Net.pdb
+D:\_Claire2_\M1\C#\Chat_git\Server\bin\Debug\Net.exe.config
