@@ -1,0 +1,21 @@
+C:\Users\Clement\Desktop\grmf\Chat Project\Chat Project\bin\Debug\Chat Project.exe
+C:\Users\Clement\Desktop\grmf\Chat Project\Chat Project\bin\Debug\Chat Project.pdb
+C:\Users\Clement\Desktop\grmf\Chat Project\Chat Project\obj\Debug\Chat Project.exe
+C:\Users\Clement\Desktop\grmf\Chat Project\Chat Project\obj\Debug\Chat Project.pdb
+C:\Users\Sonia\Desktop\Chat Project\Chat Project\obj\Debug\Chat Project.pdb
+C:\Users\Sonia\Desktop\Chat Project\Chat Project\bin\Debug\Chat Project.exe
+C:\Users\Sonia\Desktop\Chat Project\Chat Project\bin\Debug\Chat Project.pdb
+C:\Users\Sonia\Desktop\Chat Project\Chat Project\obj\Debug\Chat_Project.csprojResolveAssemblyReference.cache
+C:\Users\Sonia\Desktop\Chat Project\Chat Project\obj\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Chat Project\bin\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Chat Project\bin\Debug\Chat Project.pdb
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Chat Project\obj\Debug\Chat_Project.csprojResolveAssemblyReference.cache
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Chat Project\obj\Debug\Chat_Project.csproj.CoreCompileInputs.cache
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Chat Project\obj\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\CHAT-Gouessant-Witenberg\Chat Project\obj\Debug\Chat Project.pdb
+D:\_Claire2_\M1\C#\Chat_git\Chat Project\bin\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\Chat_git\Chat Project\bin\Debug\Chat Project.pdb
+D:\_Claire2_\M1\C#\Chat_git\Chat Project\obj\Debug\Chat_Project.csprojResolveAssemblyReference.cache
+D:\_Claire2_\M1\C#\Chat_git\Chat Project\obj\Debug\Chat_Project.csproj.CoreCompileInputs.cache
+D:\_Claire2_\M1\C#\Chat_git\Chat Project\obj\Debug\Chat Project.exe
+D:\_Claire2_\M1\C#\Chat_git\Chat Project\obj\Debug\Chat Project.pdb

@@ -1,0 +1,5 @@
+C:\Users\Sonia\Desktop\Efrei\Efrei M1\C# et .NET\TP1\Chat Project\Chat Project\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Sonia\Desktop\Efrei\Efrei M1\C# et .NET\TP1\Chat Project\Chat Project\bin\Debug\Chat Project.dll
+C:\Users\Sonia\Desktop\Efrei\Efrei M1\C# et .NET\TP1\Chat Project\Chat Project\bin\Debug\Chat Project.pdb
+C:\Users\Sonia\Desktop\Efrei\Efrei M1\C# et .NET\TP1\Chat Project\Chat Project\obj\Debug\Chat Project.dll
+C:\Users\Sonia\Desktop\Efrei\Efrei M1\C# et .NET\TP1\Chat Project\Chat Project\obj\Debug\Chat Project.pdb
