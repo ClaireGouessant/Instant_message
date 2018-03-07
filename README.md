@@ -1,7 +1,7 @@
 # Instant_message
 The prototype allows people to speak together. They can create private discussions with many users through different chatrooms.
 
-The chat is implemented as a Client / Server application and used the TCP/IP protocol.
+The chat is implemented as a **Client / Server** application and used the **TCP / IP protocol**.
 
 At the beginning of the connection, the users authentificate themselves. They can connect themselves with their account, or if they do not have one, they can create it.
 
